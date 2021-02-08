@@ -1,4 +1,4 @@
-# Docker development container for Laravel 8 using Ubuntu 20.04 LTS as base
+# Docker development container for Laravel 8 using Ubuntu 20.04 LTS as base image
 
 
 Stack
